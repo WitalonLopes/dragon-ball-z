@@ -32,7 +32,7 @@ cd dragon-ball-z
 
 📁 Estrutura do Projeto
 
-dragon-ball-z/
+```markdown
 ├── index.html
 ├── src/
 │   ├── css/
@@ -41,6 +41,7 @@ dragon-ball-z/
 │   └── fonts/
 ├── palavras.txt
 └── .git/
+```
 
 
 💡 Inspiração
