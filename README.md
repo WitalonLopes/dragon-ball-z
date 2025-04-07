@@ -12,7 +12,7 @@ Uma landing page interativa inspirada no universo de **Dragon Ball Z**, desenvol
 
 ## 📸 Preview
 
-![Preview da Landing Page](./src/demo.gif)
+![Preview da Landing Page](./src/gif/demo.gif)
 
 🛠️ Tecnologias Utilizadas
 . HTML5
